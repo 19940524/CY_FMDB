@@ -43,5 +43,7 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>CFBundleDisplayName</key>
+	<string>FMDB二次封装</string>
 </dict>
 </plist>

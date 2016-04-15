@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CY_FMDB/CY_GeneralDB/GeneralDB.m"
+            timestampString = "482383553.656023"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "-getBasePath"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[GeneralDB getBasePath]"
+                  moduleName = "CY_FMDB"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/GuoBin/Documents/PracticeDemo/CY_FMDB/CY_FMDB/CY_GeneralDB/GeneralDB.m"
+                  timestampString = "482383658.060222"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "1063">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[GeneralDB getBasePath]"
+                  moduleName = "CY_FMDB"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/GuoBin/Documents/PracticeDemo/CY_FMDB/CY_FMDB/CY_GeneralDB/GeneralDB.m"
+                  timestampString = "482383658.060392"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "1075">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
